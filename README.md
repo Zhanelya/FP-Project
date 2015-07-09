@@ -9,6 +9,8 @@ module Aeson.
 https://hackage.haskell.org/package/aeson-0.8.0.0/docs/Data-Aeson.html
 
 ####Functionality:
-######1.Parsing JSON input into Haskell data type (using Aeson)
-######2. Converting the Haskell data type into XML format
-######3. Querying parsed data
+1. Parsing JSON input into Haskell data type (using Aeson)
+2. Converting the Haskell data type into XML format
+3. Querying parsed data
+
+For complete documentation, please check the pdf report
