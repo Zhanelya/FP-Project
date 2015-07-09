@@ -1,0 +1,73 @@
+{
+	"customers":[
+		{
+			 "firstName": "John",
+			 "lastName": "Smith",
+			 "age": 25,
+			 "address":
+			 {
+				 "streetAddress": "21 2nd Street",
+				 "city": "New York",
+				 "state": "NY",
+				 "postalCode": "10021"
+			 },
+			 "phoneNumbers":
+			 [
+				 {
+				   "num_type": "home",
+				   "number": "212 555-1234"
+				 },
+				 {
+				   "num_type": "fax",
+				   "number": "646 555-4567"
+				 }
+			 ]
+		},
+		{
+			 "firstName": "Alex",
+			 "lastName": "Davis",
+			 "age": 30,
+			 "address":
+			 {
+				 "streetAddress": "2 1st Street",
+				 "city": "New York",
+				 "state": "NY",
+				 "postalCode": "10023"
+			 },
+			 "phoneNumbers":
+			 [
+				 {
+				   "num_type": "home",
+				   "number": "211 777-5432"
+				 },
+				 {
+				   "num_type": "fax",
+				   "number": "633 523-1234"
+				 }
+			 ]
+		},
+		{
+			 "firstName": "Richard",
+			 "lastName": "Holmes",
+			 "age": 23,
+			 "address":
+			 {
+				 "streetAddress": "22 2nd Street",
+				 "city": "New York",
+				 "state": "NY",
+				 "postalCode": "10021"
+			 },
+			 "phoneNumbers":
+			 [
+				 {
+				   "num_type": "home",
+				   "number": "233 523-1544"
+				 },
+				 {
+				   "num_type": "fax",
+				   "number": "543 111-1235"
+				 }
+			 ]
+		}
+	]
+}

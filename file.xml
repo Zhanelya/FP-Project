@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<customer>
+<firstName>John</firstName>
+<lastName>Smith</lastName>
+<age>25</age>
+<address>
+<streetAddress>21 2nd Street</streetAddress>
+<city>New York</city>
+<state>New York</state>
+<postalCode>10021</postalCode>
+</address>
+<phoneNumbers>
+<phoneNumber>
+<num_type>home</num_type>
+<number>212 555-1234</number>
+</phoneNumber>
+<phoneNumber>
+<num_type>fax</num_type>
+<number>646 555-4567</number>
+</phoneNumber>
+</phoneNumbers>
+</customer>
+
+
+<customer>
+<firstName>Alex</firstName>
+<lastName>Davis</lastName>
+<age>30</age>
+<address>
+<streetAddress>2 1st Street</streetAddress>
+<city>New York</city>
+<state>New York</state>
+<postalCode>10023</postalCode>
+</address>
+<phoneNumbers>
+<phoneNumber>
+<num_type>home</num_type>
+<number>211 777-5432</number>
+</phoneNumber>
+<phoneNumber>
+<num_type>fax</num_type>
+<number>633 523-1234</number>
+</phoneNumber>
+</phoneNumbers>
+</customer>
+
+
+<customer>
+<firstName>Richard</firstName>
+<lastName>Holmes</lastName>
+<age>23</age>
+<address>
+<streetAddress>22 2nd Street</streetAddress>
+<city>New York</city>
+<state>New York</state>
+<postalCode>10021</postalCode>
+</address>
+<phoneNumbers>
+<phoneNumber>
+<num_type>home</num_type>
+<number>233 523-1544</number>
+</phoneNumber>
+<phoneNumber>
+<num_type>fax</num_type>
+<number>543 111-1235</number>
+</phoneNumber>
+</phoneNumbers>
+</customer>
+
+</customers>
